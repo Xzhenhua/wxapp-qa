@@ -6,10 +6,13 @@
       <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
+<<<<<<< HEAD
 
        <!-- This is our View  
     <view> Hello {{name}}! </view>
     <button bindtap="changeName"> Click me! </button>  -->
+=======
+>>>>>>> 00a03fccb43a24be67b0bb7705560b9c0f355820
     
   </view>
   <view class="usermotto">
