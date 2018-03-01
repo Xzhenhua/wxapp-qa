@@ -7,9 +7,9 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
 
-      <!-- This is our View  -->
+     <!--  This is our View 
     <view> Hello {{name}}! </view>
-    <button bindtap="changeName"> Click me! </button> 
+    <button bindtap="changeName"> Click me! </button> -->
     
   </view>
   <view class="usermotto">
